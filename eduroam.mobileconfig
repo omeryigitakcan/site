@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>TLSMaximumVersion</key>
+				<string>1.0</string>
+				<key>TLSMinimumVersion</key>
+				<string>1.0</string>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.14AB1D25-CAFE-4224-90F7-2D2A9DC787B7</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>14AB1D25-CAFE-4224-90F7-2D2A9DC787B7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>eduroam</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>eduroam</string>
+	<key>PayloadIdentifier</key>
+	<string>Bilgi Islem Daire Baskanligi</string>
+	<key>PayloadOrganization</key>
+	<string>Beü Diş Grup 7 :))</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F988AEB5-4DE4-4DD8-A72E-9CD62E18CE92</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
